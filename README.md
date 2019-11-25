@@ -4,6 +4,12 @@ Custom todo website with 2 types of users: casual and admins.
 
 Admins can assign tasks to users and users can retview them and mark them as completed
 
+## Admin
+
+username: justas@gmail.com
+
+pass: justas123
+
 ### Prerequisites
 
 Composer
@@ -41,5 +47,3 @@ php artisan db:seed
 ```$xslt
 php artisan serve
 ```
-"# praktika" 
-"# praktika-relative-works" 
