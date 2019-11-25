@@ -1,6 +1,6 @@
 <section class="jumbotron">
     <h5 class=" text-center text-uppercase ">
-        Your tasks
+        TODO
     </h5>
     <ul class="list-group m-5">
         @foreach($data->tasks as $task)
