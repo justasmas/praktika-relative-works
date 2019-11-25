@@ -1,0 +1,16 @@
+.checkbox-state-0{
+    background-color: white;
+}
+.checkbox-state-1{
+
+    background-color: black;
+}
+.checkbox{
+    width: 20px;
+    height: 20px;
+    border: 1px solid black;
+    cursor: pointer;
+    &:hover{
+        background-color: wheat;
+    }
+}
